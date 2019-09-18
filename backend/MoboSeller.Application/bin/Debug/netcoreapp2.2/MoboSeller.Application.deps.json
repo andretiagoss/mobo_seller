@@ -8,22 +8,22 @@
     ".NETCoreApp,Version=v2.2": {
       "MoboSeller.Application/1.0.0": {
         "dependencies": {
-          "MoboSeller.CrossCutting.IoC": "1.0.0",
           "MoboSeller.Domain": "1.0.0",
+          "MoboSeller.Infra.CrossCutting.IoC": "1.0.0",
           "MoboSeller.Infra.Data": "1.0.0"
         },
         "runtime": {
           "MoboSeller.Application.dll": {}
         }
       },
-      "MoboSeller.CrossCutting.IoC/1.0.0": {
-        "runtime": {
-          "MoboSeller.CrossCutting.IoC.dll": {}
-        }
-      },
       "MoboSeller.Domain/1.0.0": {
         "runtime": {
           "MoboSeller.Domain.dll": {}
+        }
+      },
+      "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
+        "runtime": {
+          "MoboSeller.Infra.CrossCutting.IoC.dll": {}
         }
       },
       "MoboSeller.Infra.Data/1.0.0": {
@@ -42,12 +42,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MoboSeller.CrossCutting.IoC/1.0.0": {
+    "MoboSeller.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "MoboSeller.Domain/1.0.0": {
+    "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

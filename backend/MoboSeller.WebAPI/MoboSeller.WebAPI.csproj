@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MoboSeller.Application\MoboSeller.Application.csproj" />
-    <ProjectReference Include="..\MoboSeller.CrossCutting.IoC\MoboSeller.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\MoboSeller.Infra.CrossCutting.IoC\MoboSeller.Infra.CrossCutting.IoC.csproj" />
   </ItemGroup>
 
 </Project>

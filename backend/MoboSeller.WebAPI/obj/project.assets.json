@@ -4443,8 +4443,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "MoboSeller.CrossCutting.IoC": "1.0.0",
           "MoboSeller.Domain": "1.0.0",
+          "MoboSeller.Infra.CrossCutting.IoC": "1.0.0",
           "MoboSeller.Infra.Data": "1.0.0"
         },
         "compile": {
@@ -4452,16 +4452,6 @@
         },
         "runtime": {
           "bin/placeholder/MoboSeller.Application.dll": {}
-        }
-      },
-      "MoboSeller.CrossCutting.IoC/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "compile": {
-          "bin/placeholder/MoboSeller.CrossCutting.IoC.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MoboSeller.CrossCutting.IoC.dll": {}
         }
       },
       "MoboSeller.Domain/1.0.0": {
@@ -4472,6 +4462,16 @@
         },
         "runtime": {
           "bin/placeholder/MoboSeller.Domain.dll": {}
+        }
+      },
+      "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/MoboSeller.Infra.CrossCutting.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoboSeller.Infra.CrossCutting.IoC.dll": {}
         }
       },
       "MoboSeller.Infra.Data/1.0.0": {
@@ -12126,15 +12126,15 @@
       "path": "../MoboSeller.Application/MoboSeller.Application.csproj",
       "msbuildProject": "../MoboSeller.Application/MoboSeller.Application.csproj"
     },
-    "MoboSeller.CrossCutting.IoC/1.0.0": {
-      "type": "project",
-      "path": "../MoboSeller.CrossCutting.IoC/MoboSeller.CrossCutting.IoC.csproj",
-      "msbuildProject": "../MoboSeller.CrossCutting.IoC/MoboSeller.CrossCutting.IoC.csproj"
-    },
     "MoboSeller.Domain/1.0.0": {
       "type": "project",
       "path": "../MoboSeller.Domain/MoboSeller.Domain.csproj",
       "msbuildProject": "../MoboSeller.Domain/MoboSeller.Domain.csproj"
+    },
+    "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
+      "type": "project",
+      "path": "../MoboSeller.Infra.CrossCutting.IoC/MoboSeller.Infra.CrossCutting.IoC.csproj",
+      "msbuildProject": "../MoboSeller.Infra.CrossCutting.IoC/MoboSeller.Infra.CrossCutting.IoC.csproj"
     },
     "MoboSeller.Infra.Data/1.0.0": {
       "type": "project",
@@ -12148,7 +12148,7 @@
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "MoboSeller.Application >= 1.0.0",
-      "MoboSeller.CrossCutting.IoC >= 1.0.0"
+      "MoboSeller.Infra.CrossCutting.IoC >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12184,8 +12184,8 @@
             "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Application\\MoboSeller.Application.csproj": {
               "projectPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Application\\MoboSeller.Application.csproj"
             },
-            "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj"
+            "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj"
             }
           }
         }

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "MoboSeller.CrossCutting.IoC/1.0.0": {
+      "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
         "runtime": {
-          "MoboSeller.CrossCutting.IoC.dll": {}
+          "MoboSeller.Infra.CrossCutting.IoC.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MoboSeller.CrossCutting.IoC/1.0.0": {
+    "MoboSeller.Infra.CrossCutting.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

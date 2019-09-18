@@ -1,9 +1,0 @@
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.deps.json
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.dll
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.pdb
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.csprojAssemblyReference.cache
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.csproj.CoreCompileInputs.cache
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.AssemblyInfoInputs.cache
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.AssemblyInfo.cs
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.dll
-C:\Projetos\React\MoboSeller\backend\MoboSeller.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.CrossCutting.IoC.pdb

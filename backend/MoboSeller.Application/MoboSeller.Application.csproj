@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoboSeller.CrossCutting.IoC\MoboSeller.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\MoboSeller.Infra.CrossCutting.IoC\MoboSeller.Infra.CrossCutting.IoC.csproj" />
     <ProjectReference Include="..\MoboSeller.Domain\MoboSeller.Domain.csproj" />
     <ProjectReference Include="..\MoboSeller.Infra.Data\MoboSeller.Infra.Data.csproj" />
   </ItemGroup>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj": {}
+    "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj": {
+    "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj",
-        "projectName": "MoboSeller.CrossCutting.IoC",
-        "projectPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\MoboSeller.CrossCutting.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj",
+        "projectName": "MoboSeller.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\MoboSeller.Infra.CrossCutting.IoC.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.CrossCutting.IoC\\obj\\",
+        "outputPath": "C:\\Projetos\\React\\MoboSeller\\backend\\MoboSeller.Infra.CrossCutting.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
