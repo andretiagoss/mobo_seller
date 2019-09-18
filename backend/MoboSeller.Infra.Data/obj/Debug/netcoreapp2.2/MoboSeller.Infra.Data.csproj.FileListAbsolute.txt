@@ -1,0 +1,12 @@
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\bin\Debug\netcoreapp2.2\MoboSeller.Infra.Data.deps.json
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\bin\Debug\netcoreapp2.2\MoboSeller.Infra.Data.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\bin\Debug\netcoreapp2.2\MoboSeller.Infra.Data.pdb
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\bin\Debug\netcoreapp2.2\MoboSeller.Domain.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\bin\Debug\netcoreapp2.2\MoboSeller.Domain.pdb
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.csprojAssemblyReference.cache
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.AssemblyInfoInputs.cache
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.AssemblyInfo.cs
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.csproj.CopyComplete
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.Data\obj\Debug\netcoreapp2.2\MoboSeller.Infra.Data.pdb
