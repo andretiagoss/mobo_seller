@@ -5,9 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MoboSeller.Infra.CrossCutting.IoC\MoboSeller.Infra.CrossCutting.IoC.csproj" />
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Flunt" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\MoboSeller.Domain\MoboSeller.Domain.csproj" />
-    <ProjectReference Include="..\MoboSeller.Infra.Data\MoboSeller.Infra.Data.csproj" />
   </ItemGroup>
 
 </Project>

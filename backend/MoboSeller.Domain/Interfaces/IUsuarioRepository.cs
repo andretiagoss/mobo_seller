@@ -1,10 +1,11 @@
 ﻿using MoboSeller.Domain.DTO;
 using MoboSeller.Domain.Entities;
+using System.Threading.Tasks;
 
 namespace MoboSeller.Domain.Interfaces
 {
     public interface IUsuarioRepository
     {
-        Usuario AutenticarUsuario(AutenticarUsuarioDTO request);
+        Task<Usuario> AutenticarAsync(AutenticarDTO request);
     }
 }

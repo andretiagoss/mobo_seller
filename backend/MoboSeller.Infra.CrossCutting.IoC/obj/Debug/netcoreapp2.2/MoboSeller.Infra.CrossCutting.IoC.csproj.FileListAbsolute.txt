@@ -6,3 +6,11 @@ C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug
 C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.Infra.CrossCutting.IoC.AssemblyInfo.cs
 C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.Infra.CrossCutting.IoC.dll
 C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.Infra.CrossCutting.IoC.pdb
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Domain.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Infra.Data.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Domain.pdb
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Infra.Data.pdb
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\obj\Debug\netcoreapp2.2\MoboSeller.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Application.dll
+C:\Projetos\React\MoboSeller\backend\MoboSeller.Infra.CrossCutting.IoC\bin\Debug\netcoreapp2.2\MoboSeller.Application.pdb

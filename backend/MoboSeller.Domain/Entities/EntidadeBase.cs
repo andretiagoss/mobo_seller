@@ -7,8 +7,8 @@ namespace MoboSeller.Domain.Entities
     public class EntidadeBase
     {
         public long Id { get; set; }
-        public DateTime DataCriacao { get; set; }
-        public DateTime DataAtualizacao { get; set; }
+        public DateTime DataInclusao { get; set; }
+        public DateTime DataAlteracao { get; set; }
 
     }
 }
