@@ -1,6 +1,10 @@
-﻿namespace MoboSeller.Domain.Entities
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace MoboSeller.Application.ProdutoApp
 {
-    public class Produto
+    public class ProdutoResponse
     {
         public long Id { get; set; }
         public string NomeProduto { get; set; }

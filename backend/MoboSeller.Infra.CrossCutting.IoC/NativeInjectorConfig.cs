@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using MoboSeller.Application.EstoqueApp;
 using MoboSeller.Application.UsuarioApp;
 using MoboSeller.Domain.Interfaces;
 using MoboSeller.Domain.Interfaces.UnitOfWork;
@@ -17,8 +18,8 @@ namespace MoboSeller.Infra.CrossCutting.IoC
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddTransient<IUsuarioApp, UsuarioApp>();
+            services.AddTransient<IEstoqueApp, EstoqueApp>();
 
-            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
             services.AddScoped<IUsuarioRepository, UsuarioRepository>();
             services.AddScoped<IEstoqueRepository, EstoqueRepository>();
         }
